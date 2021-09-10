@@ -179,4 +179,8 @@ class TokoHubModel extends CI_Model
             return $data;
         }
     }
+
+    public function addStock($id_toko, $data)
+    {
+    }
 }
